@@ -54,7 +54,7 @@ To fine-tune a BERT-Large model on a dataset consisting of medical text, likely 
 
 ### 1. Clone the Repo
 bash
-git clone https://github.com/BanamaliNayak/imdb_sentiment_analysis.git
+git clone https://github.com/AbhishekMohanty05/Sentiment_Analysis_on_IMDB-movie-datasets.git
 
 ### 2. Run the Notebook
 Launch Jupyter or VS Code to open and run AIDS_Project.ipynb.
